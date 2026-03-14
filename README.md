@@ -40,7 +40,7 @@ We abstracted the complex physics of methanogenesis into a highly intuitive mobi
 
 ---
 
-## Current Status & Roadmap (MVP)
+## 🚀 Current Status & Roadmap (MVP)
 This project is currently **Ongoing**. 
 
 For our High-Fidelity MVP, we are utilizing a **Raspberry Pi 4** as an edge gateway to process real-time sensor data and locally train our LSTM models. Our commercial roadmap involves migrating this finalized logic to a highly cost-effective **ESP32** microcontroller, ensuring the system can be mass-produced and scaled affordably.
